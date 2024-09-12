@@ -63,10 +63,10 @@ function App() {
     if (submittedCount >= 2) {
         return (
             <div className="w-full min-h-screen flex flex-col justify-center items-center bg-gray-900">
-                <h1 className="text-3xl font-bold text-white mb-6 animate-bounce">
+                <h1 className="w-6/7 text-3xl font-bold text-white mb-6 animate-bounce">
                     Thanks for the Challenge!
                 </h1>
-                <p className="w-1/3 text-xl text-gray-300 mb-6">
+                <p className="w-5/6 text-xl text-gray-300 mb-6">
                     Big shoutout to Pete Tech for crafting such a quirky and
                     delightful challenge for IFPI! 🎉 I've had a blast
                     navigating through the chaos, and I'm excited to tackle more
