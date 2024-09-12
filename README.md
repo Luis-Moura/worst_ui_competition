@@ -1,5 +1,8 @@
 # Worst UI Competition
 
+## Live Demo
+Check out the live version of the project: [Worst UI Competition on Vercel](https://worst-ui-competition.vercel.app/)
+
 ## Description
 The **Worst UI Competition** is a fun and experimental React application created with Vite and Tailwind CSS. The app presents a deliberately confusing interface as a playful challenge for users. It includes features like random input order and unpredictable styling changes.
 
@@ -12,7 +15,7 @@ The **Worst UI Competition** is a fun and experimental React application created
 - **React**: A JavaScript library for building user interfaces.
 - **Vite**: A fast build tool and development server.
 - **Tailwind CSS**: A utility-first CSS framework for rapid UI development.
-- **TypeScript**: A statically typed superset of JavaScript that provides optional type annotations and improves code quality and maintainability.
+- **TypeScript**: A statically typed superset of JavaScript that improves code quality and maintainability.
 
 ## Installation and Setup
 
@@ -36,7 +39,7 @@ The **Worst UI Competition** is a fun and experimental React application created
     ```bash
     npm run dev
     ```
-    The application will be available at `http://localhost:5173/` or another port, depending on the output in your terminal. Please check the terminal for the exact URL and port where the application is running.
+    The application will be available at `http://localhost:5173/`.
 
 ## File Structure
 - **`src/App.tsx`:** Main component file with core application logic.
@@ -45,5 +48,4 @@ The **Worst UI Competition** is a fun and experimental React application created
 - **`package.json`:** Project dependencies and scripts.
 
 ## Usage
-Upon running the application, you'll encounter a form with inputs in a shuffled order. The behavior of the form changes based on the number of submissions, and the interface includes various animations to enhance the playful nature of the app.
-
+Upon running the application, you'll encounter a form with inputs in a shuffled order. The form’s behavior changes based on the number of submissions, and various animations enhance the playful nature of the app.
