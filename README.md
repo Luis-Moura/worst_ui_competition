@@ -47,13 +47,3 @@ The **Worst UI Competition** is a fun and experimental React application created
 ## Usage
 Upon running the application, you'll encounter a form with inputs in a shuffled order. The behavior of the form changes based on the number of submissions, and the interface includes various animations to enhance the playful nature of the app.
 
-## Contributing
-If you'd like to contribute to the **Worst UI Competition**, follow these steps:
-1. Fork this repository.
-2. Create a new branch for your feature (`git checkout -b feature/your-feature`).
-3. Commit your changes (`git commit -m 'Add your feature'`).
-4. Push your branch (`git push origin feature/your-feature`).
-5. Open a Pull Request.
-
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
